@@ -16,8 +16,9 @@ This project is a **machine learning-based image classification system** that id
 ├── UI                                  # Frontend code (HTML/CSS/JavaScript)
 ├── server                              # Python Flask server for API & model integration
 ├── model                               # Jupyter Notebook for model building & training
-    └── sports_classification.ipynb     # Jupyter Notebook for Classification 
+    └── sports-person-classifier.ipynb     # Jupyter Notebook for Classification 
     └── requirements.txt                # Python dependencies
+    └── test_images                       # Test images to perform inital image processing
 ├── images_dataset                      # Dataset of images used for training the model
     └── lionel_messi
     └── maria_sharapova
